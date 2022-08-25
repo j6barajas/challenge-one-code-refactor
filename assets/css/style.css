@@ -38,10 +38,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .banner {
     height: 800px;
     width: 100%;
@@ -51,6 +47,18 @@ p {
     background-position: center;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -59,12 +67,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 aside {
